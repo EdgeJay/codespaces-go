@@ -1,5 +1,7 @@
 # Go (Golang) Codespaces starter template
 
+*Forked this repo from [codespaces-examples/go](https://github.com/codespaces-examples/go) as it was using older version of Go.*
+
 Welcome, Gopher! This repository is a template for you to use in your next (or existing) Go project so you can take advantage of [Visual Studio Codespaces](https://visualstudio.microsoft.com/services/visual-studio-codespaces/), or the brand-new [GitHub Codespaces](https://github.com/features/codespaces).
 
 ## How to get started on a new repository
